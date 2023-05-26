@@ -31,3 +31,10 @@ body {
 .post {
     padding: 1em;
 }
+
+.footer {
+    background: blue;
+    color: white;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
