@@ -7,4 +7,4 @@ Clase Platzi
 
 >El objetivo principal es trabajar la web raulalejandro.com.mx sobre asesoría en oddo haciendo uso de git y github.
 
-**### "Las grandes oportunidades nacen de haber sabido aprovechar las pequeñas”**
+### "Las grandes oportunidades nacen de haber sabido aprovechar las pequeñas”
